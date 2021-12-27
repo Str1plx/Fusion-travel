@@ -120,7 +120,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	width: 980px;
 }
 .welcome-section-block__title {
-	color: #4a4a4a;
+	color: #2b6dd1;
 	margin: 0 0 15px 0;
 	font-size: 50px;
 }
@@ -162,7 +162,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	margin: 0 0 15px 0;
 }
 .item-title {
-	color: #4a4a4a;
+	color: #2b6dd1;
 	margin: 0 0 15px 0;
 }
 .item-text {
@@ -173,7 +173,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	margin: 170px 0 0 0;
 }
 .blog-section-block__title {
-	color: #4a4a4a;
+	color: #2b6dd1;
 	margin: 0 0 15px 0;
 	font-size: 50px;
 }
@@ -235,7 +235,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	right: 0;
 }
 .reviews-section-block__title {
-	color: #4a4a4a;
+	color: #2b6dd1;
 	margin: 0 0 15px 0;
 	font-size: 50px;
 }
